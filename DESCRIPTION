@@ -2,7 +2,7 @@ Package: ri
 Type: Package
 Title: ri: R package for performing randomization-based inference for
         experiments
-Version: 0.9
+Version: 0.9.9001
 Date: 2012-05-10
 Author: Peter M. Aronow <peter.aronow@yale.edu> and Cyrus Samii
         <cds2083@nyu.edu>
@@ -16,6 +16,7 @@ Description: This package provides a set of tools for conducting exact
         effects, constant effects variance estimation, randomization
         inference for significance testing against sharp null
         hypotheses and visualization of data and results.
+    Compatibility updates by Renova.
 License: GPL (>= 2)
 Packaged: 2012-05-14 16:15:27 UTC; peteraronow
 Repository: CRAN

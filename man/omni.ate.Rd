@@ -47,7 +47,7 @@ Gerber, Alan S. and Donald P. Green. 2012. \emph{Field Experiments: Design, Anal
 
 Rosenbaum, Paul R. 2002. \emph{Observational Studies}. 2nd ed. New York: Springer.
 
-Samii, Cyrus and Peter M. Aronow. 2012. On Equivalencies Between Design-Based and Regression-Based Variance Estimators for Randomized Experiments. \emph{Statistics and Probability Letters}. 82(2): 365-370. \url{http://dx.doi.org/10.1016/j.spl.2011.10.024}
+Samii, Cyrus and Peter M. Aronow. 2012. On Equivalencies Between Design-Based and Regression-Based Variance Estimators for Randomized Experiments. \emph{Statistics and Probability Letters}. 82(2): 365-370. \doi{10.1016/j.spl.2011.10.024}
 }
 \author{
 Peter M. Aronow <peter.aronow@yale.edu>; Cyrus Samii <cds2083@nyu.edu>
